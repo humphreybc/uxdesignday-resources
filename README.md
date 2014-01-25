@@ -108,6 +108,28 @@ Try to avoid clashing with similar conferences (UX Australia, Webstock, etc).
 
 Please use [Open Sans](http://www.google.com/fonts/specimen/Open+Sans) for everything. You can add Open Sans to Google Docs by using the Add Fonts option in the dropdown. It’s also available as a free web font on Google Web Fonts, and you can download the .ttf files for use in graphic software.
 
+#### Should I have swag bags?
+
+This is up to you. Swag bags can be a pain in the ass to organise, and can be quite expensive. Unless you’ve got some really awesome stuff in them, most attendees disregard or bin them. Also, who wants to carry even more stuff around with them all day?
+
+#### Should I have T Shirts?
+
+T Shirts are usually only printed for the organisers and volunteers since they can be quite expensive.
+
+#### Any suggestions for catering?
+
+Yes. Make sure there is enough food. Make sure you cater for specific dietary requirements. When you have lots of people, stagger the lunch so a long line doesn’t form. Have a morning tea and afternoon tea. A coffee cart is a great idea for the morning. Make sure there’s a good ‘break-out’ space at your chosen venue for people to eat lunch.
+
+#### What’s the best way to get publicity around UX Design Day?
+
+There are a few ways that work:
+
+1. Send press releases to local news organisations
+2. Announce the conference on Twitter and Facebook and post frequently
+3. Ask prominent news websites (eg. Smashing Magazine) to post about your conference
+4. Send an email to previous conference attendees (ask Benjamin for the mailing list)
+5. Do some [guerilla marketing](https://www.facebook.com/photo.php?fbid=537804696288567) on the [street](https://www.facebook.com/photo.php?fbid=534508529951517)
+
 #### Will I get access to the Twitter and Facebook accounts to promote my conference?
 
 Yes, you will. I will email you the details.
@@ -123,6 +145,9 @@ Absolutely not! We are learning just as much as you are, and we’ll definitely 
 #### I have more questions. Who do I contact?
 
 Contact Benjamin Humphrey, [benjamin@uxdesignday.org.](mailto:benjamin@uxdesignday.org)
+
+
+
 
 
 
