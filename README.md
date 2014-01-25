@@ -2,35 +2,6 @@
 
 Version: 1.2, last updated: 25 Jan 2014
 
-#### Table of Contents
-
-- [UX Design Day - resources](#ux-design-day---resources)
-  - [Welcome!](#welcome)
-    - [What is UX Design Day at a glance?](#what-is-ux-design-day-at-a-glance)
-    - [How do I download all of this information?](#how-do-i-download-all-of-this-information)
-    - [How do I become eligible to run a UXDD in my city?](#how-do-i-become-eligible-to-run-a-uxdd-in-my-city)
-    - [How much are we allowed to customize our own UX Design Days?](#how-much-are-we-allowed-to-customize-our-own-ux-design-days)
-    - [What do we call our conference?](#what-do-we-call-our-conference)
-    - [What topics should we try to cover?](#what-topics-should-we-try-to-cover)
-    - [What website do we point people to?](#what-website-do-we-point-people-to)
-    - [Who do we use for ticketing and attendee payments?](#who-do-we-use-for-ticketing-and-attendee-payments)
-    - [How do we customize uxdesignday.org to our liking?](#how-do-we-customize-uxdesigndayorg-to-our-liking)
-    - [How do we deal with scheduling?](#how-do-we-deal-with-scheduling)
-    - [How much should we charge for tickets?](#how-much-should-we-charge-for-tickets)
-    - [What do we do with any profits from our conference?](#what-do-we-do-with-any-profits-from-our-conference)
-    - [Who do we approach for sponsorship?](#who-do-we-approach-for-sponsorship)
-    - [￼How do I attract good speakers?](#how-do-i-attract-good-speakers)
-    - [How often should these conferences be held?](#how-often-should-these-conferences-be-held)
-    - [What font should I use?](#what-font-should-i-use)
-    - [Should I have swag bags?](#should-i-have-swag-bags)
-    - [Should I have T Shirts?](#should-i-have-t-shirts)
-    - [Any suggestions for catering?](#any-suggestions-for-catering)
-    - [What’s the best way to get publicity around UX Design Day?](#whats-the-best-way-to-get-publicity-around-ux-design-day)
-    - [Will I get access to the Twitter and Facebook accounts to promote my conference?](#will-i-get-access-to-the-twitter-and-facebook-accounts-to-promote-my-conference)
-    - [Will I get a @uxdesignday.org email address?](#will-i-get-a-uxdesigndayorg-email-address)
-    - [Is all of this set in concrete?](#is-all-of-this-set-in-concrete)
-    - [I have more questions. Who do I contact?](#i-have-more-questions-who-do-i-contact)
-
 ### Welcome!
 
 Hello! If you’re reading this then you’re probably thinking of running a [UX Design Day](http://uxdesignday.org) conference somewhere in the world. That’s awesome!
@@ -41,7 +12,34 @@ The content here will evolve over time. The best place to get the most up-to-dat
 
 The idea is that you will be able to take these assets and examples to form your own set of material to help you run your own UXDD. We have a heap of templates, marketing resources, previous budgets, schedules, survey results, and more to help you succeed.
 
-If you have any questions, please contact me at [benjamin@uxdesignday.org](mailto:benjamin@uxdesignday.org) and I’m happy to answer them. Otherwise, here are a few frequently asked questions:
+If you have any questions, please contact me at [benjamin@uxdesignday.org](mailto:benjamin@uxdesignday.org) and I’m happy to answer them.
+
+### Frequently asked questions
+
+- [What is UX Design Day at a glance?](#what-is-ux-design-day-at-a-glance)
+- [How do I download all of this information?](#how-do-i-download-all-of-this-information)
+- [How do I become eligible to run a UXDD in my city?](#how-do-i-become-eligible-to-run-a-uxdd-in-my-city)
+- [How much are we allowed to customize our own UX Design Days?](#how-much-are-we-allowed-to-customize-our-own-ux-design-days)
+- [What do we call our conference?](#what-do-we-call-our-conference)
+- [What topics should we try to cover?](#what-topics-should-we-try-to-cover)
+- [What website do we point people to?](#what-website-do-we-point-people-to)
+- [Who do we use for ticketing and attendee payments?](#who-do-we-use-for-ticketing-and-attendee-payments)
+- [How do we customize uxdesignday.org to our liking?](#how-do-we-customize-uxdesigndayorg-to-our-liking)
+- [How do we deal with scheduling?](#how-do-we-deal-with-scheduling)
+- [How much should we charge for tickets?](#how-much-should-we-charge-for-tickets)
+- [What do we do with any profits from our conference?](#what-do-we-do-with-any-profits-from-our-conference)
+- [Who do we approach for sponsorship?](#who-do-we-approach-for-sponsorship)
+- [￼How do I attract good speakers?](#how-do-i-attract-good-speakers)
+- [How often should these conferences be held?](#how-often-should-these-conferences-be-held)
+- [What font should I use?](#what-font-should-i-use)
+- [Should I have swag bags?](#should-i-have-swag-bags)
+- [Should I have T Shirts?](#should-i-have-t-shirts)
+- [Any suggestions for catering?](#any-suggestions-for-catering)
+- [What’s the best way to get publicity around UX Design Day?](#whats-the-best-way-to-get-publicity-around-ux-design-day)
+- [Will I get access to the Twitter and Facebook accounts to promote my conference?](#will-i-get-access-to-the-twitter-and-facebook-accounts-to-promote-my-conference)
+- [Will I get a @uxdesignday.org email address?](#will-i-get-a-uxdesigndayorg-email-address)
+- [Is all of this set in concrete?](#is-all-of-this-set-in-concrete)
+- [I have more questions. Who do I contact?](#i-have-more-questions-who-do-i-contact)
 
 #### What is UX Design Day at a glance?
 
