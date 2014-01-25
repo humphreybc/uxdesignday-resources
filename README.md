@@ -25,7 +25,7 @@ If you have any questions, please contact me at [benjamin@uxdesignday.org](mailt
 - [What website do we point people to?](#what-website-do-we-point-people-to)
 - [Who do we use for ticketing and attendee payments?](#who-do-we-use-for-ticketing-and-attendee-payments)
 - [How do we customize uxdesignday.org to our liking?](#how-do-we-customize-uxdesigndayorg-to-our-liking)
-- [How do we deal with scheduling?](#how-do-we-deal-with-scheduling)
+- [What’s a good schedule?](#whats-a-good-schedule)
 - [How much should we charge for tickets?](#how-much-should-we-charge-for-tickets)
 - [What do we do with any profits from our conference?](#what-do-we-do-with-any-profits-from-our-conference)
 - [Who do we approach for sponsorship?](#who-do-we-approach-for-sponsorship)
@@ -99,7 +99,7 @@ The basic layout and style is set by us, however you can modify the content, suc
 
 Please submit [pull requests](https://help.github.com/articles/using-pull-requests) on your location’s branch in the [UX Design Day Github repository](https://github.com/humphreybc/uxdesignday). It’s a relatively simple static site built with Node.js.
 
-#### How do we deal with scheduling?
+#### What’s a good schedule?
 
 Please keep your schedule and conference format close to the original. If you find there is a better way of doing things, talk to me about changing the global schedule! The idea is that UX Design Day should be fast-paced, compact, practical, and accessible.
 
