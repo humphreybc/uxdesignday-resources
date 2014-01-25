@@ -1,6 +1,6 @@
 ## UX Design Day - resources
 
-Version: 1.2, last updated: 25 Jan 2014
+Version: 1.2.1, last updated: 25 Jan 2014
 
 ### Welcome!
 
@@ -40,6 +40,8 @@ If you have any questions, please contact me at [benjamin@uxdesignday.org](mailt
 - [Will I get a @uxdesignday.org email address?](#will-i-get-a-uxdesigndayorg-email-address)
 - [Is all of this set in concrete?](#is-all-of-this-set-in-concrete)
 - [I have more questions. Who do I contact?](#i-have-more-questions-who-do-i-contact)
+
+Table of Contents generated with [DocToc](http://doctoc.herokuapp.com)
 
 #### What is UX Design Day at a glance?
 
