@@ -1,7 +1,6 @@
 ## UX DESIGN DAY - resources from previous conferences
 
-Version: 1.1
-Last updated: 25 Jan 2014
+Version: 1.1, last updated: 25 Jan 2014
 
 ### Welcome!
 
