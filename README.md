@@ -19,6 +19,7 @@ If you have any questions, please contact me at [benjamin@uxdesignday.org](mailt
 - [What is UX Design Day at a glance?](#what-is-ux-design-day-at-a-glance)
 - [How do I download all of this information?](#how-do-i-download-all-of-this-information)
 - [How do I become eligible to run a UXDD in my city?](#how-do-i-become-eligible-to-run-a-uxdd-in-my-city)
+- [What is the fee structure?](#what-is-the-fee-structure)
 - [How much are we allowed to customize our own UX Design Days?](#how-much-are-we-allowed-to-customize-our-own-ux-design-days)
 - [What do we call our conference?](#what-do-we-call-our-conference)
 - [What topics should we try to cover?](#what-topics-should-we-try-to-cover)
@@ -61,6 +62,28 @@ It’s pretty simple, really.
 2. Start thinking about a great venue and speakers you might invite
 3. Allow yourself 4 months to organise the event
 4. Put together a two or three page proposal document and email it to [Benjamin](mailto:benjamin@uxdesignday.org)
+
+#### What is the fee structure?
+
+The parent organisation (UX Design Day) takes **33%** of the profits of a conference after all expenses have been paid. This is to help cover costs like:
+
+* Server cost for the website
+* Domain renewals for uxdesignday.org and .com
+* New Zealand company registration fees
+* Facebook and Twitter advertising to build fanbase
+* Google Apps for Work
+* Time spent to build and maintain the website
+* Time spent building brand awareness and trust
+
+The remaining **66%** is for the conference organisers to keep as a recognition of the time and effort they put in on the ground to make each conference happen.
+
+The profit is whatever is left after all expenses have been paid. Expenses like catering, venue hire, speaker accommodation and travel costs, any official drinks after the event, swag bag costs, and any marketing for the specific conference like stickers, posters, cards, etc.
+
+For this reason, a detailed record of the budget must be kept along with receipts for expenses.
+
+##### Example fee breakdown
+
+Say a conference has $6,458.00 remaining after paying all expenses and reimbursing all speakers for travel and accommodation costs. The organisers of that conference would receive $4,305.00 for their time and send $2,153.00 to UX Design Day Limited.
 
 #### How much are we allowed to customize our own UX Design Days?
 
