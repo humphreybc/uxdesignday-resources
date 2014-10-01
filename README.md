@@ -23,7 +23,7 @@ If you have any questions, please contact me at [benjamin@uxdesignday.org](mailt
 - [How do I download all of this information?](#how-do-i-download-all-of-this-information)
 - [How do I become eligible to run a UXDD in my city?](#how-do-i-become-eligible-to-run-a-uxdd-in-my-city)
 - [What is the fee structure?](#what-is-the-fee-structure)
-- [How much are we allowed to customize our own UX Design Days?](#how-much-are-we-allowed-to-customize-our-own-ux-design-days)
+- [Can we customize our own UX Design Day?](#can-we-customize-our-own-ux-design-day)
 - [What do we call our conference?](#what-do-we-call-our-conference)
 - [What topics should we try to cover?](#what-topics-should-we-try-to-cover)
 - [What website do we point people to?](#what-website-do-we-point-people-to)
@@ -98,7 +98,7 @@ Let’s say a conference has $6,458.00 remaining after paying all expenses and r
 ![UX Design Day in Wellington](/design/email/wellington.jpg?raw=true "UX Design Day in Wellington")
 *UX Design Day Wellington in 2013*
 
-### How much are we allowed to customize our own UX Design Days?
+### Can we customize our own UX Design Day?
 
 UX Design Days should follow a similar one day, 6 - 12 talk format, and focus on:
 
