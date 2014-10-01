@@ -71,6 +71,8 @@ It’s pretty simple, really.
 
 #### What is the fee structure?
 
+![UX Design Day fee structure](/financials/fee-structure.png?raw=true "UX Design Day fee structure")
+
 The parent organisation ([UX Design Day Limited](http://www.business.govt.nz/companies/app/ui/pages/companies/5161521)) takes **33%** of the profits of a conference after all expenses have been paid. This is to help cover costs like:
 
 * Server and CDN for the website
