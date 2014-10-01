@@ -2,6 +2,7 @@
 
 Version: 1.2.2, last updated: 1 October 2014
 
+![UX Design Day](/design/email/email_header.png?raw=true "UX Design Day")
 
 ### Welcome!
 
