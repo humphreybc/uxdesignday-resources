@@ -64,6 +64,7 @@ Check out the [summary from Wellington 2013](https://github.com/humphreybc/uxdes
 * Grow Wellington: [Wellys, Wellness and Web Design](http://send.uprise.co.nz/t/ViewEmail/r/B3C35F9BAC9A47682540EF23F30FEDED/ACDB91BD33D99634A2432AF2E34A2A5F)
 * EventFinda: [UX Design Day](http://www.eventfinder.co.nz/2013/ux-design-day/wellington)
 * Chalkle blog: [UX Design Day – coming to the Creative Capital](http://blog.chalkle.com/ux-design-day-coming-to-the-creative-capital/)
+* sticK: [The heart of the matter, and a matter of the heart, is design by intention](http://sticknz.net/2013/10/01/the-heart-of-the-matter-and-a-matter-of-the-heart-is-design-by-intention/)
 * Mozilla Reps: [UX Design Day](https://reps.mozilla.org/e/ux-design-day/)
 * Content is the web: [I’ll be at Dunedin’s UX Design Day, October 31](http://contentistheweb.com/dunedins-design-october/) 
 
