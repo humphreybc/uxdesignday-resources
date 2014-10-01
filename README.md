@@ -95,7 +95,8 @@ For this reason, a detailed record of the budget must be kept along with receipt
 
 Let’s say a conference has $6,458.00 remaining after paying all expenses and reimbursing all speakers for travel and accommodation costs. The organisers of that conference would receive $4,305.00 for their time and send $2,153.00 to UX Design Day Limited.
 
-![UX Design Day in Wellington](/design/email/wellington.png?raw=true "UX Design Day in Wellington")
+![UX Design Day in Wellington](/design/email/wellington.jpg?raw=true "UX Design Day in Wellington")
+UX Design Day Wellington in 2013
 
 ### How much are we allowed to customize our own UX Design Days?
 
