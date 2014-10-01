@@ -50,7 +50,7 @@ Table of Contents generated with [DocToc](http://doctoc.herokuapp.com)
 
 ### What is UX Design Day?
 
-UX Design Day is a an awesome one-day educational design event in cities around the world. We aim to raise awareness of good design in every industry, and teach people valuable skills from all experience levels. Our target audience is UX designers, frontend developers, business owners, marketers, graphic designers, product managers, and more.
+UX Design Day is a one-day educational design event in cities around the world. We aim to raise awareness of good design in every industry, and teach people valuable skills from all experience levels. Our target audience is UX designers, frontend developers, business owners, marketers, graphic designers, product managers, and more.
 
 Check out the [summary from Wellington 2013](https://github.com/humphreybc/uxdesignday-resources/blob/master/summary/wellington%202013/UX%20Design%20Day%20Wellington%202013%20Summary.pdf?raw=true) to get a feel for what makes a great UX Design Day and of course if you haven’t already visited [uxdesignday.org](http://uxdesignday.org) then do that too.
 
