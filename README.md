@@ -20,6 +20,7 @@ If you have any questions, please contact me at [benjamin@uxdesignday.org](mailt
 ## Frequently asked questions
 
 - [What is UX Design Day?](#what-is-ux-design-day)
+- [In the news](#in-the-news)
 - [How do I download all of this information?](#how-do-i-download-all-of-this-information)
 - [How do I become eligible to run a UXDD in my city?](#how-do-i-become-eligible-to-run-a-uxdd-in-my-city)
 - [What is the fee structure?](#what-is-the-fee-structure)
@@ -53,6 +54,18 @@ Table of Contents generated with [DocToc](http://doctoc.herokuapp.com)
 UX Design Day is a one-day educational design event in cities around the world. We aim to raise awareness of good design in every industry, and teach people valuable skills from all experience levels. Our target audience is UX designers, frontend developers, business owners, marketers, graphic designers, product managers, and more.
 
 Check out the [summary from Wellington 2013](https://github.com/humphreybc/uxdesignday-resources/blob/master/summary/wellington%202013/UX%20Design%20Day%20Wellington%202013%20Summary.pdf?raw=true) to get a feel for what makes a great UX Design Day and of course if you haven’t already visited [uxdesignday.org](http://uxdesignday.org) then do that too.
+
+### In the news
+
+* Idealog: [All about the UX: from tattoo ink to global tech](http://idealog.co.nz/tech/2013/09/all-about-ux-tattoo-ink-global-tech)
+* The Big Idea: [UX Design Day boosts the creative capital](http://www.thebigidea.co.nz/connect/media-releases/2013/sep/134899-ux-design-day-boosts-the-creative-capital)
+* Design Assembly: [UX Design Day is coming to Wellington](http://www.designassembly.org.nz/articles/ux-design-wellington)
+* Wellington.Scoop: [UX Design Day will showcase work by Wellington companies](http://wellington.scoop.co.nz/?p=59254)
+* Grow Wellington: [Wellys, Wellness and Web Design](http://send.uprise.co.nz/t/ViewEmail/r/B3C35F9BAC9A47682540EF23F30FEDED/ACDB91BD33D99634A2432AF2E34A2A5F)
+* EventFinda: [UX Design Day](http://www.eventfinder.co.nz/2013/ux-design-day/wellington)
+* Chalkle blog: [UX Design Day – coming to the Creative Capital](http://blog.chalkle.com/ux-design-day-coming-to-the-creative-capital/)
+* Mozilla Reps: [UX Design Day](https://reps.mozilla.org/e/ux-design-day/)
+* Content is the web: [I’ll be at Dunedin’s UX Design Day, October 31](http://contentistheweb.com/dunedins-design-october/) 
 
 
 ### How do I download all of this information?
