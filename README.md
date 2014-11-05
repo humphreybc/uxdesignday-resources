@@ -24,6 +24,7 @@ If you have any questions, please contact me at [benjamin@uxdesignday.org](mailt
 - [How do I download all of this information?](#how-do-i-download-all-of-this-information)
 - [How do I become eligible to run a UXDD in my city?](#how-do-i-become-eligible-to-run-a-uxdd-in-my-city)
 - [What is the fee structure?](#what-is-the-fee-structure)
+- [What happens if my conference runs at a loss?](#what-happens-if-my-conference-runs-at-a-loss)
 - [Can we customize our own UX Design Day?](#can-we-customize-our-own-ux-design-day)
 - [What do we call our conference?](#what-do-we-call-our-conference)
 - [What topics should we try to cover?](#what-topics-should-we-try-to-cover)
@@ -46,8 +47,6 @@ If you have any questions, please contact me at [benjamin@uxdesignday.org](mailt
 - [Is all of this set in concrete?](#is-all-of-this-set-in-concrete)
 - [I have more questions. Who do I contact?](#i-have-more-questions-who-do-i-contact)
 
-Table of Contents generated with [DocToc](http://doctoc.herokuapp.com)
-
 
 ### What is UX Design Day?
 
@@ -57,6 +56,7 @@ Check out the [summary from Wellington 2013](https://github.com/humphreybc/uxdes
 
 ### In the news
 
+* Design Assembly: [UXDD2014 - Dunedin](http://www.designassembly.org.nz/articles/ux-design-day-dunedin)
 * Idealog: [All about the UX: from tattoo ink to global tech](http://idealog.co.nz/tech/2013/09/all-about-ux-tattoo-ink-global-tech)
 * The Big Idea: [UX Design Day boosts the creative capital](http://www.thebigidea.co.nz/connect/media-releases/2013/sep/134899-ux-design-day-boosts-the-creative-capital)
 * Design Assembly: [UX Design Day is coming to Wellington](http://www.designassembly.org.nz/articles/ux-design-wellington)
@@ -111,6 +111,14 @@ Let’s say a conference has $6,458.00 remaining after paying all expenses and r
 
 ![UX Design Day in Wellington](/design/email/wellington.jpg?raw=true "UX Design Day in Wellington")
 *UX Design Day Wellington in 2013*
+
+
+### What happens if my conference runs at a loss?
+
+You and other organisers are responsible for any extra costs incurred if a conference you organise runs at a loss. UX Design Day doesn’t have any cash in the bank to cover expenses if the conference doesn’t make a profit.
+
+Because of this, we highly encourage you to be extremely confident the conference will be a success. Make sure you have some speakers and sponsors onboard before picking a venue, and keep a detailed budget at all times.
+
 
 ### Can we customize our own UX Design Day?
 
